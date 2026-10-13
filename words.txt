@@ -1,0 +1,4 @@
+university
+class
+home
+lecture
